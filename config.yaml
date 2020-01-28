@@ -1,0 +1,4 @@
+cities: false
+listen: 0.0.0.0:12950
+data_source: maxmind-http
+log_level: 5 
